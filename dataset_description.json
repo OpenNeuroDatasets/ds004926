@@ -2,7 +2,7 @@
     "Name": "Reliability 3T fMRI experiment",
     "BIDSVersion": "1.9.0",
     "DatasetType": "raw",
-    "License": "n/a",
+    "License": "CC0",
     "Authors": [
         "Alice Dabbagh",
         "Ulrike Horn",
@@ -22,5 +22,5 @@
     "ReferencesAndLinks": [
         "n/a"
     ],
-    "DatasetDOI": "n/a"
+    "DatasetDOI": "doi:10.18112/openneuro.ds004926.v1.0.0"
 }
