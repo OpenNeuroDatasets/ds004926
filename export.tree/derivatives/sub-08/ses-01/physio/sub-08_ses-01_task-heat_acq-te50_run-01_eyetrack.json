@@ -1,0 +1,19 @@
+{
+    "Description": "Preprocessed pupil data from eye tracking. Eyeblinks automatically detected by the EyeLink software were removed, and manual corrections for additional blinks or artifacts were applied. Missing data due to blinking periods were interpolated linearly. The data were then down-sampled to 100Hz and low-pass filtered with a cut-off frequency of 4 Hz.",
+    "Columns": {
+        "pupil_size": "Processed pupil size data after blink removal, interpolation, and filtering.",
+        "blinks": "Automated detection of blinks",
+        "artifacts_manual": "Manually corrected artifacts"
+    },
+    "SamplingFrequency": "100Hz",
+    "Filtering": "Low-pass filter with a cut-off frequency of 4 Hz",
+    "Manufacturer": "SR-Research",
+    "ManufacturerModelName": "EYELINK II CL v5.15 Jan 24 2018",
+    "TaskDescription": "Participants were subjected to 1-second heat pain stimuli at 48 degrees Celsius applied to one of five patches on the left inner forearm. The task aimed to investigate the reliability of one heat pain evoked BOLD responses at a TE of 40ms across two consecutive days, as well as understand the effects of different TEs on the spinal cord BOLD signal.",
+    "InstitutionName": "Max-Planck-Institute for Human Cognitive and Brain Sciences",
+    "InstitutionAddress": "Stephanstr. 1a; 04103 Leipzig; Germany",
+    "CalibrationType": "HV9",
+    "RecordedEye": "RIGHT",
+    "MaximalCalibrationError": "1.22",
+    "AverageCalibrationError": "0.50"
+}

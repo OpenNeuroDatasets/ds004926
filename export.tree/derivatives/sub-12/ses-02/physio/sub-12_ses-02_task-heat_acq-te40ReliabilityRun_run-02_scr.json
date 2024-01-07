@@ -1,0 +1,12 @@
+{
+    "Description": "Skin conductance data recorded during the fMRI experiment.",
+    "Columns": {
+        "scr": "Skin conductance trace"
+    },
+    "SamplingRate": "100 Hz.",
+    "Manufacturer": "Brain Products, Gilching, Germany",
+    "ManufacturerModelName": "BrainAmp ExG system",
+    "TaskDescription": "Participants were subjected to 1-second heat pain stimuli at 48 degrees Celsius applied to one of five patches on the left inner forearm. The task aimed to investigate the reliability of one heat pain evoked BOLD responses at a TE of 40ms across two consecutive days, as well as understand the effects of different TEs on the spinal cord BOLD signal.",
+    "InstitutionName": "Max-Planck-Institute for Human Cognitive and Brain Sciences",
+    "SkinconductanceSignalDescription": ". SCR data were down-sampled to 100Hz, artifacts were manually removed and data were then low-pass filtered with a cut-off frequency of 1 Hz."
+}

@@ -1,0 +1,26 @@
+{
+    "Name": "Reliability 3T fMRI experiment",
+    "BIDSVersion": "1.9.0",
+    "DatasetType": "raw",
+    "License": "CC0",
+    "Authors": [
+        "Alice Dabbagh",
+        "Ulrike Horn",
+        "Merve Kaptan",
+        "Toralf Mildner",
+        "Roland Mueller",
+        "Joeran Lepsien",
+        "Nikolaus Weiskopf",
+        "Jonathan C.W. Brooks",
+        "Juergen Finsterbusch",
+        "Falk Eippert"
+    ],
+    "Acknowledgements": "Special thanks to Lisa-Marie Pohle for her help in the randomization of trials and conditions",
+    "Funding": [
+        "ERC StG: PredictingPain GA ID 758974"
+    ],
+    "ReferencesAndLinks": [
+        "https://doi.org/10.1101/2023.12.22.572825 "
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds004926.v1.1.0"
+}
